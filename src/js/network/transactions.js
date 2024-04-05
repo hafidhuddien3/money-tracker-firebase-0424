@@ -1,4 +1,4 @@
-import { auth, db } from '../utils/firebase';
+import { auth, db, storage } from '../utils/firebase';
 import {
   addDoc,
   collection,

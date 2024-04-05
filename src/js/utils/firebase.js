@@ -9,12 +9,12 @@ import { getStorage } from 'firebase/storage';
  * Ubahlah `xxxxx` dengan data konfigurasi proyek Firebase Anda
  */
 const firebaseConfig = {
-  apiKey: 'xxxxx',
-  authDomain: 'xxxxx',
-  projectId: 'xxxxx',
-  storageBucket: 'xxxxx',
-  messagingSenderId: 'xxxxx',
-  appId: 'xxxxx',
+  apiKey: 'AIzaSyDd1ROKgBCuODG3HRaNk2nFLEL0vdORLek',
+  authDomain: 'money-tracker-app-e9b1d.firebaseapp.com',
+  projectId: 'money-tracker-app-e9b1d',
+  storageBucket: 'money-tracker-app-e9b1d.appspot.com',
+  messagingSenderId: '823754161882',
+  appId: '1:823754161882:web:bcc980be4dd7243b3c6fe3',
 };
 
 // Initialize Firebase
