@@ -1,0 +1,27 @@
+[debug] [2024-04-05T06:45:31.849Z] ----------------------------------------------------------------------
+[debug] [2024-04-05T06:45:31.853Z] Command:       /Users/haniyya/.nvm/versions/node/v21.7.2/bin/node /Users/haniyya/.nvm/versions/node/v21.7.2/bin/firebase init
+[debug] [2024-04-05T06:45:31.854Z] CLI Version:   13.7.0
+[debug] [2024-04-05T06:45:31.854Z] Platform:      darwin
+[debug] [2024-04-05T06:45:31.854Z] Node Version:  v21.7.2
+[debug] [2024-04-05T06:45:31.855Z] Time:          Fri Apr 05 2024 13:45:31 GMT+0700 (Western Indonesia Time)
+[debug] [2024-04-05T06:45:31.855Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-05T06:45:31.867Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-05T06:45:31.867Z] > authorizing via signed-in user (shubuhshubuh@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/haniyya/Downloads/back up/040424/dico/latihan firebase/2/a565-webtools-labs-604-money-tracker-app-cloud-storage/money-tracker-app
+
+[debug] [2024-04-05T06:46:13.966Z] Error: Timed out.
+    at Timeout._onTimeout (/Users/haniyya/.nvm/versions/node/v21.7.2/lib/node_modules/firebase-tools/lib/utils.js:258:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
